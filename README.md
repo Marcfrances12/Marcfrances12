@@ -19,7 +19,7 @@ Estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**. Me gu
 
 | Periodo | Estudios | Centro |
 |---|---|---|
-| Actualidad | CFGS Desarrollo de Aplicaciones Web (DAW) | Comunitat Valenciana |
+| Actualidad | CFGS Desarrollo de Aplicaciones Web (DAW) | IES L'Estació Ontinyent |
 
 ## 🧰 Habilidades
 
