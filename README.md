@@ -56,7 +56,6 @@ Estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**. Me gu
 |---|---|---|
 | **TrailVerse** | TypeScript | [Ver repositorio](https://github.com/Marcfrances12/TrailVerse) |
 | **glitch_arena** | JavaScript | [Ver repositorio](https://github.com/Marcfrances12/glitch_arena) |
-| **proyecto-github-pages** | HTML | [Ver repositorio](https://github.com/Marcfrances12/proyecto-github-pages) |
 
 ## 🎯 Objetivos
 
